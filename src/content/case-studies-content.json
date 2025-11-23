@@ -1,0 +1,37 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "company": "Tech Startup Inc",
+      "role": "CEO",
+      "content": "The AI consultation helped us save 40% on operational costs. Highly recommend their expertise.",
+      "image": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "company": "Enterprise Corp",
+      "role": "Director of Innovation",
+      "content": "Professional, thorough, and delivered exceptional results. They became an extension of our team.",
+      "image": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "company": "Growth Industries",
+      "role": "COO",
+      "content": "The implementation was seamless. Our team quickly adapted to the new AI systems.",
+      "image": "placeholder"
+    }
+  ],
+  "case_studies": [
+    {
+      "id": 1,
+      "title": "Coming Soon",
+      "description": "Case study content coming soon",
+      "image": "placeholder",
+      "featured": true
+    }
+  ]
+}

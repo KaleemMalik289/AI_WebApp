@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "title": "AI Solutions for Real Business Results",
+    "subtitle": "Transform your business with intelligent automation and strategic AI implementation",
+    "cta_primary": "Book a Free Discovery Call",
+    "cta_secondary": "Learn More"
+  },
+  "featured_services": [
+    {
+      "id": "consultation",
+      "title": "AI Consultation",
+      "description": "Strategic guidance to identify AI opportunities in your business",
+      "icon": "💡"
+    },
+    {
+      "id": "implementation",
+      "title": "Implementation",
+      "description": "End-to-end AI system deployment and integration",
+      "icon": "⚙️"
+    },
+    {
+      "id": "training",
+      "title": "Training & Support",
+      "description": "Empower your team with AI skills and best practices",
+      "icon": "📚"
+    }
+  ]
+}

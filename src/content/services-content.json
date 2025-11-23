@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": "consultation",
+      "title": "AI Consultation",
+      "description": "Strategic guidance to identify and plan AI initiatives",
+      "long_description": "Our AI consultation service helps you understand where artificial intelligence can add the most value to your business. We analyze your current processes, identify optimization opportunities, and create a roadmap for AI implementation.",
+      "benefits": [
+        "Identify AI opportunities specific to your industry",
+        "Understand ROI and business impact",
+        "Create a strategic implementation roadmap",
+        "Risk assessment and mitigation planning"
+      ],
+      "pricing": "Starting from $5,000",
+      "duration": "4-6 weeks"
+    },
+    {
+      "id": "implementation",
+      "title": "AI Implementation",
+      "description": "Full-cycle deployment of AI solutions tailored to your business",
+      "long_description": "We handle everything from system architecture design to deployment and optimization. Our implementation service ensures smooth integration with your existing systems and processes.",
+      "benefits": [
+        "Custom solution design and development",
+        "Seamless integration with existing systems",
+        "Quality assurance and testing",
+        "Deployment and launch support"
+      ],
+      "pricing": "Custom pricing based on scope",
+      "duration": "8-16 weeks"
+    },
+    {
+      "id": "training",
+      "title": "Training & Support",
+      "description": "Empower your team to leverage AI effectively",
+      "long_description": "We provide comprehensive training programs to help your team understand and effectively use AI tools. Our support services ensure continued success after implementation.",
+      "benefits": [
+        "Customized training programs",
+        "Hands-on workshops and demonstrations",
+        "Documentation and best practices",
+        "Ongoing support and optimization"
+      ],
+      "pricing": "Starting from $3,000",
+      "duration": "Ongoing"
+    }
+  ]
+}

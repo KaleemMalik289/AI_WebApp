@@ -1,0 +1,20 @@
+{
+  "site": {
+    "name": "AI Consultancy",
+    "description": "AI Solutions for Real Business Results",
+    "url": "https://example.com",
+    "email": "contact@example.com"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Case Studies", "href": "/case-studies" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "social": {
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "email": "contact@example.com"
+  }
+}
